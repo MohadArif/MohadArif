@@ -1,5 +1,18 @@
 # 💫 About Me:
-### About Me<br><br>I am a Java Backend Developer with 2+ years of experience in developing scalable and secure backend applications using Java, Spring Boot, REST APIs, and Microservices. I have hands-on experience with Spring Security, JWT, Hibernate/JPA, MySQL, Redis, and Kafka.<br><br>I have worked on microservices-based applications, particularly e-commerce systems, where I contributed to features such as product management, cart management, order processing, authentication, and security. I also have experience in performance optimization, database integration, API development, and troubleshooting production issues.<br><br>I am passionate about writing clean, maintainable code and continuously improving my technical and problem-solving skills. I am currently looking for opportunities where I can contribute as a Java Backend Developer and grow with a strong engineering team.<br>
+
+👨‍💻 Java Backend Developer with 2+ years of experience building scalable, secure, and high-performance backend applications.
+
+🚀 Experienced in **Java, Spring Boot, REST APIs, Microservices, Spring Security, JWT, Hibernate/JPA, MySQL, Redis, and Apache Kafka**.
+
+🛒 Worked on **microservices-based e-commerce applications**, contributing to modules such as **Product, Cart, Order, Authentication, and Security**.
+
+⚡ Experienced in **API development, database integration, performance optimization, caching with Redis, and inter-service communication**.
+
+🧪 Familiar with **JUnit, Mockito, Postman, Swagger, Docker, Git, GitHub, Maven, and CI/CD practices**.
+
+💡 Passionate about writing **clean, maintainable, and efficient code** and continuously learning modern backend technologies.
+
+🎯 Currently focused on building robust **Java & Spring Boot backend systems** and growing as a **Backend/Microservices Developer**.
 
 
 ## 🌐 Socials:
